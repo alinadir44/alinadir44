@@ -1,6 +1,6 @@
 - 👋 Ali Nadir
-- 👀 I’m interested in SQL, CNNs, AWS, TensorFLow TFRS, YOLO, Full Stack, DevOps, SRE, AOSP 
-- 🌱 I’m currently learning Linux, ML in recommender systems, Pandas, TensorFlow
+- 👀 I’m interested in  DevOps, FCNs, AWS & Azure Cloud, MERN stack, Spring, & SRE 
+- 🌱 I’m currently learning Linux(RHEL), Ansible, K8s, Jenkins, TensorFlow Keras, NoSQL
 - 📫 Email: alinadir453@yahoo.com 
 
 <!---
