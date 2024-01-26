@@ -1,18 +1,18 @@
 # Hey 👋 I'm Ali Nadir - A Student 🎓, Software Engineer 👩‍💻, Gamer 🎮, and Community Leader 
 
 
-![u60ye58222-waneella-on-patreon-pixel-art-cool-pixel-art-anime-scenery](https://github.com/alinadir44/alinadir44/assets/56518209/a7badaf9-9c83-4ffd-a60b-b8e7df3a76fe)
-
-
 ## A little about me 👇
 
 📖Currently learning DevOps and Web Development<br>✌ Actively engaging in community building and technical content curation, online and on-site<br>🧑Seeking to collaborate on Open Source projects. Drop a message and lets start the conversation ☕<br>🙋‍♂️ Need help showcasing your product or startup? My community at <a href="https://www.linkedin.com/company/mlsa-fast-nuces-karachi-chapter">MLSA FAST NUCES</a> can help <br>🙇‍♂️ Eagerly exploring opportunities in Software development and DevOps<br>💬 AMA on DevOps, Node.js, Python, Linux, C++, JavaScript, OOP, and System Design<br>✉ Reach out to me at <a href="mailto:alinadir453@yahoo.com">alinadir453@yahoo.com</a>
 
 ---
+<img align="left" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200px"/>
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alinadir43) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kazmi.san/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salinadir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@edgecake88) 
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alinadir43) <br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kazmi.san/) <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salinadir) <br>[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@edgecake88) <br>
 [![Leetcode](https://img.shields.io/badge/-LeetCode-critical?style=flat-square&amp;labelColor=0077B5&amp;logo=leetcode&amp)](https://leetcode.com/alinadir/) 
+<br clear="left"/>
 
 ---
 
@@ -73,8 +73,8 @@
 ## ✍ Some of my blogs
 
 [Getting to know Docker](https://medium.com/@edgecake88/tearing-down-docker-to-the-basics-15f693cbc86e) • [Demistifying Docker Container Startup](https://blog.devops.dev/docker-cmd-vs-entrypoint-782754ee67a) • [Docker Networks and Beyond 🐋](https://medium.com/@edgecake88/talking-with-docker-containers-networks-and-beyond-6ad5dafd08d6)
-
-**Like what you see 👀? Follow me here for more 👉 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@edgecake88)**
+<br>
+### 🕶 Like what you see? Follow me here for more 👉 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@edgecake88)
 
 
 ## 👀 GitHub stats
