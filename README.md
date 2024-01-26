@@ -1,5 +1,6 @@
 # Hey 👋 I'm Ali Nadir - A Student 🎓, Software Engineer 👩‍💻, Gamer 🎮, and Community Leader 
 
+![u60ye58222-waneella-on-patreon-pixel-art-cool-pixel-art-anime-scenery](https://github.com/alinadir44/alinadir44/assets/56518209/e581fdfc-8029-41d7-b6ca-d6047e3d7861)
 
 ## A little about me 👇
 
