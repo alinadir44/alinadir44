@@ -1,4 +1,4 @@
-# Hey 👋 I'm Ali Nadir - A Student 🎓, Software Engineer 👩‍💻, Gamer 🎮, and Community Leader 
+# Hey 👋 I'm Ali Nadir - A Student 🎓 | Software Engineer 👩‍💻 | Community Leader 
 
 ![u60ye58222-waneella-on-patreon-pixel-art-cool-pixel-art-anime-scenery](https://github.com/alinadir44/alinadir44/assets/56518209/e581fdfc-8029-41d7-b6ca-d6047e3d7861)
 
@@ -73,7 +73,7 @@
 
 ## ✍ Some of my blogs
 
-[Getting to know Docker](https://medium.com/@edgecake88/tearing-down-docker-to-the-basics-15f693cbc86e) • [Demistifying Docker Container Startup](https://blog.devops.dev/docker-cmd-vs-entrypoint-782754ee67a) • [Docker Networks and Beyond 🐋](https://medium.com/@edgecake88/talking-with-docker-containers-networks-and-beyond-6ad5dafd08d6)
+[Getting to know Docker](https://medium.com/@edgecake88/tearing-down-docker-to-the-basics-15f693cbc86e) • [Demistifying Docker Container Startup](https://blog.devops.dev/docker-cmd-vs-entrypoint-782754ee67a) • [Docker Networks and Beyond 🐋](https://medium.com/@edgecake88/talking-with-docker-containers-networks-and-beyond-6ad5dafd08d6) • [Injecting External Secrets in a Kubernetes Cluster with ESO](https://blog.devops.dev/injecting-external-secrets-in-a-kubernetes-cluster-1e9bbe0f0d5b)
 <br>
 ### 🕶 Like what you see? Follow me here for more 👉 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@edgecake88)
 
